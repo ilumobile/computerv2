@@ -3,11 +3,11 @@
     {
       "status": 1,
       "pkg": "com.newlauncher.computer.win10",
-      "fb": "975175192681233_975176519347767",
+      "fb": "",
       "admob": "ca-app-pub-6235432452268399/1850131938",
       "unity": "1687662",
       "enable": true,
-      "time-after-active": 186400,
+      "time-after-active": 6400,
       "admob-banner": "",
       "fb-banner": "",
       "dc": "",
